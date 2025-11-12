@@ -1,5 +1,5 @@
 {
-  "name": "react-native-roble-api-database-rn",
+  "name": "react-native-roble-api-database-rena",
   "version": "0.1.0",
   "main": "lib/module/index.js",
   "module": "lib/module/index.js",
@@ -23,7 +23,7 @@
     "README.md"
   ],
   "scripts": {
-    "example": "yarn workspace react-native-roble-api-database-rn-example",
+    "example": "yarn workspace react-native-roble-api-database-ReNa-example",
     "test": "jest",
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
@@ -39,14 +39,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Arias3/react-native-roble-api-database-rn.git"
+    "url": "git+https://github.com/Arias3/react-native-roble-api-database-ReNa.git"
   },
   "author": "Arias3 <juan43arias@gmail.com> (https://github.com/Arias3)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Arias3/react-native-roble-api-database-rn/issues"
+    "url": "https://github.com/Arias3/react-native-roble-api-database-ReNa/issues"
   },
-  "homepage": "https://github.com/Arias3/react-native-roble-api-database-rn#readme",
+  "homepage": "https://github.com/Arias3/react-native-roble-api-database-ReNa#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
