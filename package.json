@@ -1,6 +1,6 @@
 {
   "name": "react-native-roble-api-database-rena",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "main": "lib/module/index.js",
   "module": "lib/module/index.js",
   "types": "lib/typescript/index.d.ts",
@@ -20,6 +20,7 @@
   "files": [
     "lib/",
     "src/",
+    "example/",
     "README.md"
   ],
   "scripts": {
