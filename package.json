@@ -1,6 +1,6 @@
 {
   "name": "react-native-roble-api-database-rena",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "lib/module/index.js",
   "module": "lib/module/index.js",
   "types": "lib/typescript/index.d.ts",
@@ -40,14 +40,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Arias3/react-native-roble-api-database-ReNa.git"
+    "url": "git+https://github.com/Arias3/roble-api-database-ReNa.git"
   },
   "author": "Arias3 <juan43arias@gmail.com> (https://github.com/Arias3)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Arias3/react-native-roble-api-database-ReNa/issues"
+    "url": "https://github.com/Arias3/roble-api-database-ReNa/issues"
   },
-  "homepage": "https://github.com/Arias3/react-native-roble-api-database-ReNa#readme",
+  "homepage": "https://github.com/Arias3/roble-api-database-ReNa#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
